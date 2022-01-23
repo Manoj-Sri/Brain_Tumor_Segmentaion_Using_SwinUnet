@@ -6,3 +6,6 @@
 ### Dataset
 
 [Kaggle BRATS-2019 Dataset](https://www.kaggle.com/aryashah2k/brain-tumor-segmentation-brats-2019)
+
+
+For full report regarding the project, refer [this](https://github.com/Manoj-Sri/Brain_Tumor_Segmentaion_Using_SwinUnet/blob/master/Report.pdf)
