@@ -9,3 +9,9 @@
 
 
 For full report regarding the project, refer [this](https://github.com/Manoj-Sri/Brain_Tumor_Segmentaion_Using_SwinUnet/blob/master/Report.pdf)
+
+For keras Unet implementations, refer this [repo](https://github.com/yingkaisha/keras-unet-collection)
+
+### Result
+
+Training started, but after some iterations all the metrics were NaN, which is possibly due to unstable gradients problem.
